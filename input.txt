@@ -1,0 +1,32 @@
+I Ali
+I Veli
+I Lutfullah
+I Cevziye
+L Ali Show must go on
+L Ali Lose Yourself
+L Ali Another brick in the wall
+L Ali Donence
+L Veli Fragile
+L Veli Show must go on
+L Veli Hello
+L Ali Mambo italiano
+P Veli
+E Ali Another brick in the wall
+P Ali
+L Veli Maybe I like
+L Cevziye Hope
+L Cevziye Fragile
+L Cevziye Hello
+L Cevziye Binnaz
+L Cevziye Cikita Muz
+M Veli
+L Lutfullah Fragile
+L Lutfullah Eller yukari
+L Lutfullah Hoppidi hoppidi
+L Cevziye Amanin yandim
+L Cevziye Fesuphanallah
+L Veli Maybe its too late
+L Veli Nothing Else Matters
+L Veli I Dont Care
+R Veli
+X
